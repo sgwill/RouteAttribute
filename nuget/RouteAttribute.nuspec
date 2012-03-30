@@ -1,0 +1,18 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>RouteAttribute</id>
+    <version>0.1.0.0</version>
+    <title>RouteAttribute</title>
+    <authors>NickLarsen,samsaffron,marc.gravell,jarrod.m.dixon</authors>
+    <owners>NickLarsen,samsaffron,marc.gravell,jarrod.m.dixon</owners>
+    <licenseUrl>http://www.apache.org/licenses/LICENSE-2.0</licenseUrl>
+    <projectUrl>https://github.com/NickLarsen/RouteAttribute</projectUrl>
+    <iconUrl>http://cdn.sstatic.net/stackexchange/img/apple-touch-icon.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <description>The route attribute helps you localize all route information at the place in the code where the route executes.</description>
+    <releaseNotes>Initial release.</releaseNotes>
+    <copyright>Copyright 2012</copyright>
+    <tags>mvc asp.net route routes routing attribute routeattribute</tags>
+  </metadata>
+</package>
